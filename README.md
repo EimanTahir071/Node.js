@@ -1,3 +1,3 @@
 # Node.js
 
-<img src="/images/1.jpg" alt="description" />
+<img src="/image/1.jpg" alt="description" />
