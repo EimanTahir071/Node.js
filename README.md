@@ -1,3 +1,3 @@
 # Node.js
 
-<img src="\1.webp" alt=""discription />
+<img src="/1.webp" alt=""discription />
