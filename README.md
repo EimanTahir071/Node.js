@@ -1,3 +1,3 @@
 # Node.js
 
-![description](images/1.jpg)
+<img src="images/1.jpg" alt="description" />
